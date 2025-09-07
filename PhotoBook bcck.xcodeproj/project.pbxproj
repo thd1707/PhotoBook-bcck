@@ -11,6 +11,20 @@
 		50E32FA52E6C9DCD00D2CA98 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FA42E6C9DCD00D2CA98 /* ContentView.swift */; };
 		50E32FA72E6C9DD200D2CA98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50E32FA62E6C9DD200D2CA98 /* Assets.xcassets */; };
 		50E32FAA2E6C9DD200D2CA98 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50E32FA92E6C9DD200D2CA98 /* Preview Assets.xcassets */; };
+		50E32FB52E6C9F2100D2CA98 /* Template.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FB42E6C9F2100D2CA98 /* Template.swift */; };
+		50E32FB72E6C9F5200D2CA98 /* PhotoBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FB62E6C9F5200D2CA98 /* PhotoBook.swift */; };
+		50E32FB92E6C9F7A00D2CA98 /* PhotoPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FB82E6C9F7A00D2CA98 /* PhotoPage.swift */; };
+		50E32FBB2E6C9FA400D2CA98 /* PhotoBookViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FBA2E6C9FA400D2CA98 /* PhotoBookViewModel.swift */; };
+		50E32FBD2E6C9FD000D2CA98 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FBC2E6C9FD000D2CA98 /* WelcomeView.swift */; };
+		50E32FBF2E6CA00000D2CA98 /* TemplateListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FBE2E6CA00000D2CA98 /* TemplateListView.swift */; };
+		50E32FC12E6CA02800D2CA98 /* TemplateDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FC02E6CA02800D2CA98 /* TemplateDetailView.swift */; };
+		50E32FC32E6CA04700D2CA98 /* PhotoBookCreationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FC22E6CA04700D2CA98 /* PhotoBookCreationView.swift */; };
+		50E32FC52E6CA46200D2CA98 /* PhotoBookListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FC42E6CA46200D2CA98 /* PhotoBookListView.swift */; };
+		50E32FC72E6CA55C00D2CA98 /* PhotoBookDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FC62E6CA55C00D2CA98 /* PhotoBookDetailView.swift */; };
+		50E32FC92E6CA94B00D2CA98 /* ClassicPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FC82E6CA94B00D2CA98 /* ClassicPreviewView.swift */; };
+		50E32FCB2E6CA96B00D2CA98 /* CollagePreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FCA2E6CA96B00D2CA98 /* CollagePreviewView.swift */; };
+		50E32FCF2E6CA9AE00D2CA98 /* DiaryPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FCE2E6CA9AE00D2CA98 /* DiaryPreviewView.swift */; };
+		50E32FD12E6CA9D800D2CA98 /* PolaroidPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E32FD02E6CA9D800D2CA98 /* PolaroidPreviewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,20 @@
 		50E32FA42E6C9DCD00D2CA98 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		50E32FA62E6C9DD200D2CA98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50E32FA92E6C9DD200D2CA98 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		50E32FB42E6C9F2100D2CA98 /* Template.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Template.swift; sourceTree = "<group>"; };
+		50E32FB62E6C9F5200D2CA98 /* PhotoBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoBook.swift; sourceTree = "<group>"; };
+		50E32FB82E6C9F7A00D2CA98 /* PhotoPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPage.swift; sourceTree = "<group>"; };
+		50E32FBA2E6C9FA400D2CA98 /* PhotoBookViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoBookViewModel.swift; sourceTree = "<group>"; };
+		50E32FBC2E6C9FD000D2CA98 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		50E32FBE2E6CA00000D2CA98 /* TemplateListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateListView.swift; sourceTree = "<group>"; };
+		50E32FC02E6CA02800D2CA98 /* TemplateDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateDetailView.swift; sourceTree = "<group>"; };
+		50E32FC22E6CA04700D2CA98 /* PhotoBookCreationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoBookCreationView.swift; sourceTree = "<group>"; };
+		50E32FC42E6CA46200D2CA98 /* PhotoBookListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoBookListView.swift; sourceTree = "<group>"; };
+		50E32FC62E6CA55C00D2CA98 /* PhotoBookDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoBookDetailView.swift; sourceTree = "<group>"; };
+		50E32FC82E6CA94B00D2CA98 /* ClassicPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassicPreviewView.swift; sourceTree = "<group>"; };
+		50E32FCA2E6CA96B00D2CA98 /* CollagePreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollagePreviewView.swift; sourceTree = "<group>"; };
+		50E32FCE2E6CA9AE00D2CA98 /* DiaryPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryPreviewView.swift; sourceTree = "<group>"; };
+		50E32FD02E6CA9D800D2CA98 /* PolaroidPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolaroidPreviewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +80,9 @@
 			isa = PBXGroup;
 			children = (
 				50E32FA22E6C9DCD00D2CA98 /* PhotoBook_bcckApp.swift */,
+				50E32FB32E6C9EE300D2CA98 /* Views */,
+				50E32FB22E6C9EDF00D2CA98 /* ViewModels */,
+				50E32FB02E6C9EBB00D2CA98 /* Model */,
 				50E32FA42E6C9DCD00D2CA98 /* ContentView.swift */,
 				50E32FA62E6C9DD200D2CA98 /* Assets.xcassets */,
 				50E32FA82E6C9DD200D2CA98 /* Preview Content */,
@@ -65,6 +96,41 @@
 				50E32FA92E6C9DD200D2CA98 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		50E32FB02E6C9EBB00D2CA98 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				50E32FB42E6C9F2100D2CA98 /* Template.swift */,
+				50E32FB62E6C9F5200D2CA98 /* PhotoBook.swift */,
+				50E32FB82E6C9F7A00D2CA98 /* PhotoPage.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		50E32FB22E6C9EDF00D2CA98 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				50E32FBA2E6C9FA400D2CA98 /* PhotoBookViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		50E32FB32E6C9EE300D2CA98 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				50E32FBC2E6C9FD000D2CA98 /* WelcomeView.swift */,
+				50E32FBE2E6CA00000D2CA98 /* TemplateListView.swift */,
+				50E32FC02E6CA02800D2CA98 /* TemplateDetailView.swift */,
+				50E32FC22E6CA04700D2CA98 /* PhotoBookCreationView.swift */,
+				50E32FC42E6CA46200D2CA98 /* PhotoBookListView.swift */,
+				50E32FC62E6CA55C00D2CA98 /* PhotoBookDetailView.swift */,
+				50E32FC82E6CA94B00D2CA98 /* ClassicPreviewView.swift */,
+				50E32FCA2E6CA96B00D2CA98 /* CollagePreviewView.swift */,
+				50E32FCE2E6CA9AE00D2CA98 /* DiaryPreviewView.swift */,
+				50E32FD02E6CA9D800D2CA98 /* PolaroidPreviewView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +203,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50E32FC92E6CA94B00D2CA98 /* ClassicPreviewView.swift in Sources */,
+				50E32FC12E6CA02800D2CA98 /* TemplateDetailView.swift in Sources */,
+				50E32FB52E6C9F2100D2CA98 /* Template.swift in Sources */,
 				50E32FA52E6C9DCD00D2CA98 /* ContentView.swift in Sources */,
+				50E32FBB2E6C9FA400D2CA98 /* PhotoBookViewModel.swift in Sources */,
 				50E32FA32E6C9DCD00D2CA98 /* PhotoBook_bcckApp.swift in Sources */,
+				50E32FBF2E6CA00000D2CA98 /* TemplateListView.swift in Sources */,
+				50E32FCF2E6CA9AE00D2CA98 /* DiaryPreviewView.swift in Sources */,
+				50E32FB92E6C9F7A00D2CA98 /* PhotoPage.swift in Sources */,
+				50E32FC52E6CA46200D2CA98 /* PhotoBookListView.swift in Sources */,
+				50E32FB72E6C9F5200D2CA98 /* PhotoBook.swift in Sources */,
+				50E32FD12E6CA9D800D2CA98 /* PolaroidPreviewView.swift in Sources */,
+				50E32FBD2E6C9FD000D2CA98 /* WelcomeView.swift in Sources */,
+				50E32FC32E6CA04700D2CA98 /* PhotoBookCreationView.swift in Sources */,
+				50E32FC72E6CA55C00D2CA98 /* PhotoBookDetailView.swift in Sources */,
+				50E32FCB2E6CA96B00D2CA98 /* CollagePreviewView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
